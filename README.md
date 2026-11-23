@@ -1,2 +1,2 @@
 # Deonmunyebvu.github.io
-Deon Munyebvu | Full Stack Software Developer Portfolio
+Deon Munyebvu | Software Engineer Portfolio
